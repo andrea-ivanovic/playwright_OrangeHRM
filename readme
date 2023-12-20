@@ -1,0 +1,18 @@
+Welcome to my repo containing the first steps into Playwright.
+
+## Minimal tech requirement:
+
+Node.js 16+, Windows 10+, Windows Server 2016+ or Windows Subsystem for Linux (WSL).
+MacOS 12 Monterey or MacOS 13 Ventura.
+Debian 11, Debian 12, Ubuntu 20.04 or Ubuntu 22.04, with x86-64 or arm64 architecture.
+
+## Getting started
+
+- Create a folder for the project
+- Get a code editor (for example: Visual Studio Code)
+- Install Node.js or check its version `node -v` and check `npm -v`
+- Open the folder in terminal
+- Clone a project from GitLab `git clone <repo>`
+- `npm install` to install project dependencies
+- Open the project in code editor
+- Start Playwright with `npm playwright tests`
